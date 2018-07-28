@@ -21,8 +21,9 @@ Or install it yourself as:
     $ gem install Chicago_employees
 
 ## Usage
+employees = ChicagoEmployees::Employee.all
 
-TODO: Write usage instructions here
+
 
 ## Development
 
